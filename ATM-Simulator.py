@@ -1,5 +1,5 @@
 balance = 1000
-pin = "1234"
+pin = "1234" #You can also change
 
 print("=== Welcome to the ATM ===")
 
